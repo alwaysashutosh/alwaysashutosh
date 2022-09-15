@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)]
+![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)
 <h1 align="center">Hi 👋, I'm ASHUTOSH RANJAN</h1>
 <h3 align="center">A passionate developer and content creator from India</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
