@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **JAVA Programming**
+- 🌱 I’m currently learning **C Programming**
 
-- 🤝 I’m looking for help with **JAVA Programming**
+- 🤝 I’m looking for help with **C++ Programming**
 
 - 💬 Ask me about **Python,Mysql,Turtle,HTML,Cyber Security & Android**
 
 - 📫 How to reach me **Insta-@alwaysashutosh8**
 
-- ⚡ Fun fact **I THINK I AM FUNNY**
+- ⚡ Fun fact **Passionate about solving wicked problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
