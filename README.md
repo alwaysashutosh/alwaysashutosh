@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)
 <h1 align="center">Hi 👋, I'm ASHUTOSH RANJAN</h1>
-<h3 align="center">A passionate developer and content creator from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaysashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="alwaysashutosh" /> </p>
@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **Large Language Models[LLM]**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **Advance Python Development**
 
-- 🤝 I’m looking for help with **C++ Programming**
+- 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **Python,Mysql,Turtle,HTML,Cyber Security & Android**
+- 💬 Ask me about **Python,Mysql,Turtle,Numpy, Pandas, OpenCV, SciKit-learn, Langchain,HTML,Cyber Security & Android**
 
 - 📫 How to reach me **Insta-@alwaysashutosh8**
 
