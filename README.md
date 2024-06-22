@@ -9,11 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **Large Language Models[LLM]**
+- 🔭 I’m currently working on **DSA and Backend Dev**
 
-- 🌱 I’m currently learning **Advance Python Development**
-
-- 🤝 I’m looking for help with **AI/ML**
+- 🤝 I’m looking for help with **MLops**
 
 - 💬 Ask me about **Python,Mysql,Turtle,Numpy, Pandas, OpenCV, SciKit-learn, Langchain,HTML,Cyber Security & Android**
 
