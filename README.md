@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-# Pinned
-<p align="center">
-<a href="https://github.com/alwaysashutosh/Emotions_Detector">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alwaysashutosh&repo=Emotions_Detector&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alwaysashutosh/BlogClone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alwaysashutosh&repo=BlogClone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 #                 Github Profile Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=alwaysashutosh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/alwaysashutosh)
